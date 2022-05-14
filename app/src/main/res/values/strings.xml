@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">CS4-Resturant</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="food">
+        <item>Classic Burger</item>
+        <item>Double Burger</item>
+        <item>Chease Burger</item>
+        <item>Family Burger</item>
+        <item> single chicken</item>
+        <item> sheesh chicken</item>
+        <item> double chicken</item>
+        <item> Rab chicken</item>
+        <item> family chicken</item>
+        <item> Chease Pizza</item>
+        <item> Bebroni Pizza</item>
+        <item> Margrita Pizza</item>
+        <item> Chicken Pizza</item>
+        <item> Fahita Pizza</item>
+        <item> WhiteSauce Pata</item>
+        <item> Spagtti Pata</item>
+        <item> Chease Pata</item>
+        <item> Chicken Pata</item>
+        <item>Chicken Meal</item>
+        <item>Spagtti Meal</item>
+        <item>Healthy Meal</item>
+        <item>Family Meal</item>
+        <item>Molton cake</item>
+        <item>Ice cream</item>
+        <item> Waffle</item>
+        <item>Cake</item>
+        <item>White chocolate</item>>
+        <item>Donuts </item>>
+        <item>cheesecake</item>
+        <item>Ice glace</item>
+        <item>Pepsi</item>
+        <item>Miranda</item>
+        <item>Seven up</item>
+        <item>Mango</item>
+        <item>Blueberry</item>
+        <item>Limon</item>
+        <item>cocktail</item>
+    </string-array>
+</resources>

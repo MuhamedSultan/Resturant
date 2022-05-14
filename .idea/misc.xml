@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/drawable/btn.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/drawable/editebox.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/drawable/ic_baseline_fastfood_24.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/drawable/ic_baseline_food_bank_24.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/activity_cart.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/activity_cart1.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/activity_login.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/activity_login_activtiy.xml" value="0.264" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/activity_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/activity_start.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/cardlay.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/cardview_layout.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/cart1layout.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/fragment_burger.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/fragment_cart.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/fragment_chicken.xml" value="0.1" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/fragment_drinks.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/fragment_meals.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/fragment_pasta.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/fragment_pizza.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/fragment_sweats.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/getcard_layout.xml" value="0.264" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/longclicklayout.xml" value="0.25" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/layout/mycartlayout.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/TURBO/AndroidStudioProjects/Register/app/src/main/res/menu/menu_logout.xml" value="0.20989583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

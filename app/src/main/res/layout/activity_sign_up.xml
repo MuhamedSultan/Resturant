@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/registerbackground"
+    android:orientation="vertical"
+    tools:context=".SignUp">
+
+    <EditText
+        android:id="@+id/edemail"
+        android:layout_width="320dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="120dp"
+        android:background="@drawable/editebox"
+        android:drawableStart="@drawable/emailicon"
+        android:ems="10"
+        android:hint="  Enter Your Email"
+        android:inputType="textPersonName"
+        android:padding="10dp"
+        android:paddingHorizontal="5dp"
+        android:paddingStart="50dp"
+        android:textSize="22sp" />
+
+    <EditText
+        android:id="@+id/edpassword"
+        android:layout_width="320dp"
+        android:layout_height="80dp"
+        android:layout_marginBottom="100dp"
+        android:background="@drawable/editebox"
+        android:drawableStart="@drawable/ic_baseline_lock_24"
+        android:ems="10"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:hint="  Enter Your Password"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:textSize="22sp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnRegister"
+        android:layout_width="229dp"
+        android:layout_height="59dp"
+        android:layout_marginBottom="128dp"
+        android:background="@drawable/btn"
+        android:padding="5dp"
+        android:text="Register"
+        android:layout_gravity="center"
+        android:textAllCaps="false"
+        android:textSize="20sp" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="175dp"
+        android:layout_marginEnd="176dp"
+        android:layout_marginBottom="16dp"
+        android:visibility="gone" />
+</LinearLayout>

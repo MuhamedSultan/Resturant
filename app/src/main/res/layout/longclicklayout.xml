@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="397dp"
+        android:layout_height="83dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="5dp"
+        android:gravity="center"
+        android:text="Are you want to Delete this from cart?"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/deletefromcart1"
+        android:layout_width="145dp"
+        android:layout_height="50dp"
+        android:layout_marginEnd="2dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/btn"
+        android:text="Delete"
+        android:textAllCaps="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/cancle"
+        android:layout_width="145dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="7dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/btn"
+        android:text="Cancle"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="105dp"
+        android:layout_height="21dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="108dp"
+        android:layout_marginEnd="3dp"
+        app:layout_constraintEnd_toStartOf="@+id/deletefromcart1"
+        app:layout_constraintHorizontal_bias="0.454"
+        app:layout_constraintStart_toEndOf="@+id/cancle"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/loginbackground1"
+    android:orientation="vertical"
+    tools:context=".LoginActivtiyy">
+
+    <EditText
+        android:id="@+id/edloginemail"
+        android:layout_width="320dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="120dp"
+        android:background="@drawable/editebox"
+        android:padding="10dp"
+        android:drawableStart="@drawable/emailicon"
+        android:hint="  Enter your Email"
+        android:inputType="textPersonName"
+        android:textSize="22sp" />
+
+    <EditText
+        android:id="@+id/edloginpass"
+        android:layout_width="320dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:padding="10dp"
+        android:background="@drawable/editebox"
+        android:drawableStart="@drawable/ic_baseline_lock_24"
+        android:hint="  Enter your password"
+        android:inputType="textPassword"
+        android:textSize="22sp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_login"
+        android:layout_width="216dp"
+        android:layout_height="67dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/btn"
+        android:gravity="center"
+        android:text="Login" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/signup"
+        android:layout_width="216dp"
+        android:layout_height="67dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="25sp"
+        android:background="@drawable/btn"
+        android:padding="5dp"
+        android:text="Sign UP"
+        android:textAllCaps="false"
+        android:textSize="20sp" />
+
+</LinearLayout>
